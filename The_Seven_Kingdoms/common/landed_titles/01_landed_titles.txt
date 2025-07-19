@@ -5272,6 +5272,7 @@ e_the_dusklands = {
 				}
 				b_the_great_sept_of_baelor = {
 					holy_site = the_seven
+					holy_site = the_plundering_dragon
 				}
 				b_little_bottom = {
 				}
@@ -5457,6 +5458,7 @@ e_the_dusklands = {
 				b_aegons_garden = {
 					holy_site = rhllor
 					holy_site = valyrian
+					holy_site = the_plundering_dragon
 				}
 				b_stone_drum = {
 				}
@@ -8350,6 +8352,7 @@ e_the_reach = {
 				}
 				b_the_starry_sept = {
 					holy_site = the_seven
+					holy_site = the_plundering_dragon
 				}
 				b_thinkers_slumber = {
 				}
@@ -20287,6 +20290,7 @@ e_valyrian_freehold = {
 					holy_site = warlocks
 					holy_site = gods_summer_islands
 					holy_site = starry_wisdom
+					holy_site = the_plundering_dragon
 				}
 				b_inner_district = {
 				}
@@ -22673,6 +22677,7 @@ e_valyrian_freehold = {
 					holy_site = warlocks
 					holy_site = gods_summer_islands
 					holy_site = starry_wisdom
+					holy_site = the_plundering_dragon
 				}
 				b_pentos_2 = {
 				}
