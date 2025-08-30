@@ -10,10 +10,10 @@ heavy_axemen_defensive;Heavy Axemen Defensive;;;;;;;;;;;;;x
 heavy_axemen_morale;Heavy Axemen Morale;;;;;;;;;;;;;x
 heavy_axemen_modifier;Combat Modifier boost to Heavy Axemen unit Troops: $PERC$;;;;;;;;;;;;;x
 longbowmen;Longbowmen;;;;;;;;;;;;;x
-longbowmen_offensive;Longdbowmen Offensive;;;;;;;;;;;;;x
-longbowmen_defensive;Longdbowmen Defensive;;;;;;;;;;;;;x
-longbowmen_morale;Longdbowmen Morale;;;;;;;;;;;;;x
-longbowmen_modifier;Combat Modifier boost to Longdbowmen unit Troops: $PERC$;;;;;;;;;;;;;x
+longbowmen_offensive;Longbowmen Offensive;;;;;;;;;;;;;x
+longbowmen_defensive;Longbowmen Defensive;;;;;;;;;;;;;x
+longbowmen_morale;Longbowmen Morale;;;;;;;;;;;;;x
+longbowmen_modifier;Combat Modifier boost to Longbowmen unit Troops: $PERC$;;;;;;;;;;;;;x
 crossbowmen;Crossbowmen;;;;;;;;;;;;;x
 crossbowmen_offensive;Crossbowmen Offensive;;;;;;;;;;;;;x
 crossbowmen_defensive;Crossbowmen Defensive;;;;;;;;;;;;;x
