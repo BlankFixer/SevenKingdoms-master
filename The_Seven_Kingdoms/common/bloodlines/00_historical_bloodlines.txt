@@ -378,6 +378,7 @@ bloodline_umber = {
 	health = 0.25
 	clansmen_opinion = 20
 	martial = 2
+	bloodline_effect_indomitable = 1
 	monthly_character_prestige = 0.25
 	inheritance = patrilineal
 	allow_bastards = no
